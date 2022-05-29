@@ -1,4 +1,4 @@
 # SQL
 
 
-Some queries in SQL, PostGreeSQL , SQLSERVER AND OTHERS
+Some queries in SQL, PostgreSQL , SQLSERVER AND OTHERS
