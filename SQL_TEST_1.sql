@@ -1,4 +1,4 @@
----- QUESTION 1
+---- QUESTION 1 - Give me a list of authors (id and name) with the count of nº of books written, having the condition that they have written 2 or more books.
 USE pubs
 GO
 
