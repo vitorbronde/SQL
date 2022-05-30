@@ -1,4 +1,7 @@
------ QUESTION 3
+----- QUESTION 3 -  Give me a list of sales for each author saying how many units he/she has sold by geographic state
+ID, NAME, STATE, SOLD_BOOKS
+
+
 USE pubs
 go
 
