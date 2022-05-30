@@ -1,4 +1,4 @@
----- QUESTION 2
+---- QUESTION 2 - Give me a list of stores (id and name) together with a "bit" field indicating whether the store offers a discount or not.
 USE pubs
 GO
 
